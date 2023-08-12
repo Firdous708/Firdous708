@@ -5,9 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="https://www.instagram.com/wani___firdous">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=red" alt="Instagram Badge"/>
-  </a>
+
 </div>
 <img src="https://komarev.com/ghpvc/?username=Firdous708&style=flat-square&color=blue" alt=""/>
  <h1>
