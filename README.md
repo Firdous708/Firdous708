@@ -20,10 +20,10 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Front End  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I'm a computer science engineering student and  a Front End Developer.
+I am a MERN Stack  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :telescope: I'm a computer science engineering student and  a MERN Stack Developer.
 
-- :seedling: Learning Full Stack Web Developement.
+- :seedling: Gaining hands-on experience as an SDE Intern at Byteridge.
 
 - :zap: In my free time, I solve DSA problems on LeetCode, GeeksForGeeks, Codechef
 , HackerRank and read tech articles.
