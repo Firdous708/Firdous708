@@ -2,12 +2,12 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
   '<div id="badges">
   <a href="https://www.linkedin.com/in/firdous-wani-b21063207">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width = "200"/>
   </a>
-  
 
 </div>
-<img src="https://komarev.com/ghpvc/?username=Firdous708&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Firdous708&style=flat-square&color=blue" alt="" width = "200"/>
+<img src = "https://img.shields.io/github/stars/Firdous708" width = "100" />
  <h1>
   Hello 👋! Welcome !!!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
