@@ -2,14 +2,14 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
   '<div id="badges">
   <a href="https://www.linkedin.com/in/firdous-wani-b21063207">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width = "200"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width = "100"/>
   </a>
 
 </div>
-<img src="https://komarev.com/ghpvc/?username=Firdous708&style=flat-square&color=blue" alt="" width = "200"/>
-<img src = "https://img.shields.io/github/stars/Firdous708" width = "100" />
+<img src="https://komarev.com/ghpvc/?username=Firdous708&style=flat-square&color=blue" alt="" width = "150"/>
+<img src = "https://img.shields.io/github/stars/Firdous708" width = "70" />
  <h1>
-  Hello 👋! Welcome !!!
+  Hello 👋!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1> 
 </div>
@@ -23,7 +23,6 @@
 I am a MERN Stack  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I'm a computer science engineering student and  a MERN Stack Developer.
 
-- :seedling: Gaining hands-on experience as an SDE Intern at Byteridge.
 
 - :zap: In my free time, I solve DSA problems on LeetCode, GeeksForGeeks, Codechef
 , HackerRank and read tech articles.
